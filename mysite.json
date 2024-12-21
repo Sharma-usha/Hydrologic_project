@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-73.0285708426, 42.3032079]
+  },
+  "properties": {
+    "name": "My Site"
+  }
+}
